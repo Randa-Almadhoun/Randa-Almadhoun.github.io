@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Photos and Videos"
+permalink: /media/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.media %}
+  {% include archive-single.html %}
+{% endfor %}
+
