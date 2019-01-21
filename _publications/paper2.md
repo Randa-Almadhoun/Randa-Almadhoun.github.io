@@ -9,4 +9,21 @@ paperurl: 'http://RandaAlmadhoun.github.io/files/paper2.pdf'
 citation: R. Almadhoun, T. Taha, L. Seneviratne, J. Dias and G. Cai, "GPU accelerated coverage path planning optimized for accuracy in robotic inspection applications," 2016 IEEE 59th International Midwest Symposium on Circuits and Systems (MWSCAS), Abu Dhabi, 2016, pp. 1-4.
 doi: 10.1109/MWSCAS.2016.7869968
 ---
-[Download paper here](http://RandaAlmadhoun.github.io/files/paper2.pdf)
+
+ If you are using this package, please cite our
+[paper](http://RandaAlmadhoun.github.io/files/paper2.pdf)
+
+```
+@INPROCEEDINGS{7869968, 
+author={R. Almadhoun and T. Taha and L. Seneviratne and J. Dias and G. Cai}, 
+booktitle={2016 IEEE 59th International Midwest Symposium on Circuits and Systems (MWSCAS)}, 
+title={GPU accelerated coverage path planning optimized for accuracy in robotic inspection applications}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={1-4}, 
+keywords={automatic optical inspection;autonomous aerial vehicles;graphics processing units;mesh generation;minimisation;parallel architectures;path planning;robot vision;solid modelling;structural engineering computing;GPU accelerated coverage path planning;robotic inspection applications;large structure inspection;3D model generation;optimized path generation;heuristic reward function;structure mesh model;UAV;coverage maximization;distance minimization;graphics processing unit;parallel architecture;unmanned aerial vehicles;Sensors;Graphics processing units;Three-dimensional displays;Path planning;Inspection;Robots;Atmospheric modeling}, 
+doi={10.1109/MWSCAS.2016.7869968}, 
+ISSN={1558-3899}, 
+month={Oct},}
+```

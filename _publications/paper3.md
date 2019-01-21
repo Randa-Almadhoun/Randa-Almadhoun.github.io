@@ -6,7 +6,21 @@ excerpt: 'In this paper, we propose a coverage planning algorithm for inspecting
 date: 2016-10-1
 venue: 'Proceedings of the International Micro Air Vehicle Conference and Competition'
 paperurl: 'http://RandaAlmadhoun.github.io/files/paper3.pdf'
-citation:  R Almadhoun, T Taha, L Seneviratne, J Dias, G Cai - Proceedings of the International Micro Air Vehicle Conference and Competition, 2016
+citation:  R Almadhoun, T Taha, L Seneviratne, J Dias, G Cai,"Aircraft Inspection Using Unmanned Aerial Vehicles", Proceedings of the International Micro Air Vehicle Conference and Competition, 2016
 ---
-[Download paper here](http://RandaAlmadhoun.github.io/files/paper3.pdf)
+
+ If you are using this package, please cite our
+[paper](http://RandaAlmadhoun.github.io/files/paper3.pdf)
+
+```
+@INPROCEEDINGS{Randa2016, 
+author={R. Almadhoun and T. Taha and L. Seneviratne and J. Dias and G. Cai  }, 
+booktitle={Proceedings of the International Micro Air Vehicle Conference and Competition (IMAV)}, 
+title={Aircraft Inspection Using Unmanned Aerial Vehicles}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={1-4},
+month={Oct},}
+```
 

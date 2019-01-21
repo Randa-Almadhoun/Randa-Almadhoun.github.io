@@ -7,6 +7,23 @@ date: 2016-11-18
 venue: 'International Journal of Advanced Robotic Systems'
 paperurl: 'http://RandaAlmadhoun.github.io/files/paper1.pdf'
 
-citation: Almadhoun, R., Taha, T., Seneviratne, L., Dias, J., & Cai, G. (2016). A survey on inspecting structures using robotic systems. <i>International Journal of Advanced Robotic Systems</i>. https://doi.org/10.1177/1729881416663664
+citation: Almadhoun, R., Taha, T., Seneviratne, L., Dias, J., & Cai, G. (2016). A survey on inspecting structures using robotic systems. <i>International Journal of Advanced Robotic Systems</i>. https://doi.org/10.1177/1729881416663664  
+
 ---
-[Download paper here](http://RandaAlmadhoun.github.io/files/paper1.pdf)
+ If you are using this package, please cite our
+[Paper](http://RandaAlmadhoun.github.io/files/paper1.pdf)
+
+```
+@article{doi:10.1177/1729881416663664,
+author = {Randa Almadhoun and Tarek Taha and Lakmal Seneviratne and Jorge Dias and Guowei Cai},
+title ={A survey on inspecting structures using robotic systems},
+journal = {International Journal of Advanced Robotic Systems},
+volume = {13},
+number = {6},
+pages = {1729881416663664},
+year = {2016},
+doi = {10.1177/1729881416663664},
+URL = { https://doi.org/10.1177/1729881416663664 },
+eprint = { https://doi.org/10.1177/1729881416663664 }
+}
+```

@@ -9,3 +9,19 @@ citation:  R. Almadhoun, T. Taha, D. Gan, J. Dias, Y. Zweiri and L. Seneviratne,
 doi: 10.1109/IROS.2018.8593719
 ---
 
+ If you are using this package, please cite our paper
+ 
+```
+@INPROCEEDINGS{8593719, 
+author={R. Almadhoun and T. Taha and D. Gan and J. Dias and Y. Zweiri and L. Seneviratne}, 
+booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+title={Coverage Path Planning with Adaptive Viewpoint Sampling to Construct 3D Models of Complex Structures for the Purpose of Inspection}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={7047-7054}, 
+keywords={Sensors;Adaptation models;Path planning;Solid modeling;Entropy;Clustering algorithms;Octrees}, 
+doi={10.1109/IROS.2018.8593719}, 
+ISSN={2153-0866}, 
+month={Oct},}
+```
